@@ -10,11 +10,11 @@ A simple Python script that greets new users with a personalized message and a t
 - Generates a warm, custom welcome message highlighting their hobby and encouraging them as a Python programmer.
 
 Example output:
-'--- Welcome Message ---
+`--- Welcome Message ---
 Hello, Alice! 👋
 Welcome to the world of Python Programming.
 It's great to know that you love painting.
-Get ready to build something amazing today.'
+Get ready to build something amazing today.`
 
 ---
 
@@ -23,7 +23,7 @@ Get ready to build something amazing today.'
 1. Make sure you have Python installed.
 2. Download or clone this repository to your computer.
 3. Open your terminal, navigate to the folder containing `welcome.py`.
-4. Run it with: 'python welcome.py'
+4. Run it with: `python welcome.py`
 5. Enter your name and favorite hobby when prompted. Enjoy your personalized welcome!
 
 ## 💡 Why Try This?
